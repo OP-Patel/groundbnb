@@ -1,0 +1,119 @@
+
+/* COLUMN IN EACH BOX */
+.house-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.house-image{
+    border-radius: 17px;
+    height: 345px;
+    width: 365px;
+    overflow: hidden;
+}
+
+.col1-wrapper{
+    display: inline-block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.location{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding-left: 2px;
+    margin-top: 10px;
+    margin-bottom: 0%;
+    padding-top: 0; 
+    padding-bottom: 0;
+    float: left;
+    color: black;
+}
+
+.description-wrapper{
+    display: flex; 
+    padding: 0;
+    gap: 15px;
+    padding-left: 2px;
+}
+
+
+.description{
+    padding: 0;
+    margin-top: 3px; 
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #6a6a71;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 5px;
+}
+
+.date-wrapper{
+    display: block; 
+}
+
+.date{
+    float: left;
+    padding-left: 2px;
+    margin-bottom: 0%;
+    margin-top: 3px;
+    padding-top: 0; 
+    padding-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #6a6a71;
+    font-size: 15px;
+}
+
+.rating{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+    padding-right: 2px;
+    margin: 0;
+    margin-top: 10px;
+    padding-top: 0; 
+    padding-bottom: 0;
+    float: right;
+}
+
+.cost-wrapper{
+    display: inline-block;
+    padding: 0; 
+    margin: 0; 
+}
+
+.cost{
+    padding: 0 0 0 2px;
+    margin: 0; 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: black;
+    font-size: 15px;
+    float: left;
+}
+
+.perNightText{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: black;
+    font-size: 15px;
+}
+
+/* ROW OF BOXES */
+.box-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}

@@ -1,9 +1,21 @@
 import React from "react";
-import Box from "./Box"
+import Box from "./Box";
+
+
+// function createBox(house){
+//     return(
+//         <Box 
+            
+
+//         />
+//     )
+// }
 
 function Row(){
     return(
-        <div>
+        <div class="box-wrapper">
+            <Box />
+            <Box />
             <Box />
             <Box />
             <Box />
