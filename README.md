@@ -18,7 +18,6 @@ All icons can be found [here](https://icons8.com/). <br>
 
 | Airbnb | Groundbnb    |
 | :-----: | :---: |
-| ![Airbnb Single Box](https://github.com/OP-Patel/groundbnb/assets/133251616/a5ea74fe-65ca-4b68-9514-3692019874bb) | ![Groundbnb Single Box](https://github.com/OP-Patel/groundbnb/assets/133251616/602d7f92-b6af-4faf-8fa7-bdc352f6444f)   |
 | ![Screenshot 2023-08-29 at 3 37 57 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/298566e0-4bb4-4f3e-a730-4f95144fcbdf) | ![Screenshot 2023-08-29 at 3 38 11 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/e414f9ad-22be-4c99-aae8-d8698d6cabbf) |
 | ![Screenshot 2023-08-29 at 3 40 23 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/1a704a9d-5441-4c07-9cf8-1cf82371c7b4) | ![Screenshot 2023-08-29 at 3 42 29 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/3c430e97-db5a-4be9-8a2d-8cb7aedb5c96) 
 | ![Screenshot 2023-08-29 at 3 43 45 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/7075fce4-ceb5-48d2-91d7-1e4eded1fbaa) | ![Screenshot 2023-08-29 at 3 43 22 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/0897982b-c1bb-4251-9bbd-a50268fb3ec5) |
