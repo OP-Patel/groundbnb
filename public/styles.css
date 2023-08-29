@@ -263,3 +263,38 @@
     gap: 15px;
     margin-bottom: 2px;
 }
+
+
+/* ICON STYLES */
+.iconHouse{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    gap: 5px; 
+}
+
+.iconText{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.iconHouse img{
+    width: 30px;
+    height: 30px;
+}
+
+
+/* NAVBAR */
+.navbarWrapper{
+    margin: 5px 4% 3px 4%; 
+    padding: 5px 0 5px 0; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    height: auto;
+}
