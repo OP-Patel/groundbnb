@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Groundbnb
+This  project is created with ReactJS, use npm start to run project locally. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+A frontend website cloning a popular home rental company's website: [airbnb](https://www.airbnb.ca/). 
 
-## Available Scripts
+## Development Info
+Languages: JavaScript, CSS, HTML <br>
+Frameworks: ReactJS
 
-In the project directory, you can run:
+## Graphical Info
+All development is created by me, design is taken from airbnbs main page (images attached below). <br>
+Groundbnb logo can be found [here](https://velog.velcdn.com/images%2Fssaboo%2Fpost%2F5185aeaa-5980-4757-9dff-9a233d9fcd27%2Fgroundbnb.png). <br>
+All fonts are from [Google Fonts](https://fonts.google.com/). <br>
+All icons can be found [here](https://icons8.com/). <br>
 
-### `npm start`
+## Images and Demo Video
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+| Airbnb | Groundbnb    |
+| :-----: | :---: |
+| ![Airbnb Single Box](https://github.com/OP-Patel/groundbnb/assets/133251616/a5ea74fe-65ca-4b68-9514-3692019874bb) | ![Groundbnb Single Box](https://github.com/OP-Patel/groundbnb/assets/133251616/602d7f92-b6af-4faf-8fa7-bdc352f6444f)   |
+| ![Screenshot 2023-08-29 at 3 37 57 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/298566e0-4bb4-4f3e-a730-4f95144fcbdf) | ![Screenshot 2023-08-29 at 3 38 11 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/e414f9ad-22be-4c99-aae8-d8698d6cabbf) |
+| ![Screenshot 2023-08-29 at 3 40 23 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/1a704a9d-5441-4c07-9cf8-1cf82371c7b4) | ![Screenshot 2023-08-29 at 3 42 29 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/3c430e97-db5a-4be9-8a2d-8cb7aedb5c96) 
+| ![Screenshot 2023-08-29 at 3 43 45 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/7075fce4-ceb5-48d2-91d7-1e4eded1fbaa) | ![Screenshot 2023-08-29 at 3 43 22 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/0897982b-c1bb-4251-9bbd-a50268fb3ec5) |
+|![Screenshot 2023-08-29 at 3 46 25 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/61b6707d-8d67-4d4e-be96-1fd9803dfe36) | ![Screenshot 2023-08-29 at 3 46 55 PM](https://github.com/OP-Patel/groundbnb/assets/133251616/bc341f4b-94ba-4643-923d-c8c5a12a8ab9)|
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Demo video, click below or visit link: https://www.youtube.com/watch?v=DubNtNajbV4 <br>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Live Demo Thumbnail Link](https://img.youtube.com/vi/DubNtNajbV4/0.jpg)](https://www.youtube.com/watch?v=DubNtNajbV4)
