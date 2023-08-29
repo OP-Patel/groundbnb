@@ -206,7 +206,7 @@
     opacity: 0.5;
 }
 
-#globeDiv{
+.globeDiv{
     padding: 2px 0 0 0;
     margin: 0;
 }
@@ -214,4 +214,52 @@
 #personIcon{
     padding: 2px 0 0 0;
     margin: 0;
+}
+
+/* FOOTER STYLES */
+
+.footerWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px 4%;
+    border-top: 1px solid black;
+    height: auto;
+}
+
+.copyrightText{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.changeText{
+    font-size: 13px;
+    color: black;
+}
+
+.footerElementStart{
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.footerElementLast{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    gap: 15px;
+}
+
+.footerText{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.tripleIconDiv{
+    align-items: center;
+    display: flex;
+    flex-direction: row; 
+    gap: 15px;
+    margin-bottom: 2px;
 }
