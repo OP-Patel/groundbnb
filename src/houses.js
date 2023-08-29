@@ -9,7 +9,7 @@ const houses = [
         description: {
             baths: 7,
             bedrooms: 7, 
-            guests: 16
+            guests: 9
         } 
     }, 
     {
@@ -191,7 +191,7 @@ const houses = [
         description: {
             baths: 6,
             bedrooms: 5, 
-            guests: 16
+            guests: 8
         } 
     }, 
     {
