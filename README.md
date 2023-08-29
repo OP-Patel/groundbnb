@@ -25,6 +25,6 @@ All icons can be found [here](https://icons8.com/). <br>
 
 
 
-Demo video, click below or visit link: https://www.youtube.com/watch?v=DubNtNajbV4 <br>
+Demo video, click below or visit link: https://www.youtube.com/watch?v=3WSjIh6IIWM <br>
 
-[![Live Demo Thumbnail Link](https://img.youtube.com/vi/DubNtNajbV4/0.jpg)](https://www.youtube.com/watch?v=DubNtNajbV4)
+[![Live Demo Thumbnail Link](https://img.youtube.com/vi/3WSjIh6IIWM/0.jpg)](https://www.youtube.com/watch?v=3WSjIh6IIWM)
