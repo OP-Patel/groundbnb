@@ -14,15 +14,15 @@ const houses = [
     }, 
     {
         id: 2,
-        houseLocation: "Barrie, Canada",
-        imageURL: "https://a0.muscache.com/im/pictures/miso/Hosting-48125607/original/b9c4b62f-c00b-474f-a0cf-82b8203ad890.jpeg?im_w=720",
-        rentTime: "Sep. 30 — Oct. 5",
-        rating: 5.0, 
-        cost: 466,
+        houseLocation: "Galesburg, US",
+        imageURL: "https://a0.muscache.com/im/pictures/miso/Hosting-16024637/original/1b25154f-2d74-4d4e-aa5a-b483aed1aa95.jpeg?im_w=720",
+        rentTime: "Sep. 9 — 14",
+        rating: 4.97, 
+        cost: 929,
         description: {
-            baths: 4,
+            baths: 2,
             bedrooms: 3, 
-            guests: 7
+            guests: 5
         } 
     }, 
     {
@@ -105,15 +105,15 @@ const houses = [
     }, 
     {
         id: 9,
-        houseLocation: "Lyon, France",
-        imageURL: "https://a0.muscache.com/im/pictures/miso/Hosting-742424658135898180/original/ef5464ea-5eb8-426a-a097-a4ed7a395610.jpeg?im_w=720",
-        rentTime: "Sep. 15 — 20",
-        rating: 5.0, 
-        cost: 139,
+        houseLocation: "Tiny, Canada",
+        imageURL: "https://a0.muscache.com/im/pictures/miso/Hosting-51844638/original/8b026fe7-ddeb-4c3e-b69a-94d816c37d05.jpeg?im_w=720",
+        rentTime: "Sep. 4 — 9",
+        rating: 4.81, 
+        cost: 479,
         description: {
             baths: 2,
-            bedrooms: 2, 
-            guests: 3
+            bedrooms: 4, 
+            guests: 8
         } 
     }, 
     {
@@ -144,15 +144,15 @@ const houses = [
     }, 
     {
         id: 12,
-        houseLocation: "Toronto, Canada",
-        imageURL: "https://a0.muscache.com/im/pictures/miso/Hosting-827032014901177744/original/f17e0dfa-2afe-41ef-b08f-27596c8186af.jpeg?im_w=720",
-        rentTime: "Sep. 1 — 6",
-        rating: 5.0, 
-        cost: 2533,
+        houseLocation: "Lakefield, Canada",
+        imageURL: "https://a0.muscache.com/im/pictures/miso/Hosting-27548604/original/e5758070-d55e-4204-bea8-070c34d6823d.jpeg?im_w=720",
+        rentTime: "Nov. 20 — 25",
+        rating: 4.95, 
+        cost: 342,
         description: {
-            baths: 5,
-            bedrooms: 6, 
-            guests: 12
+            baths: 1,
+            bedrooms: 1, 
+            guests: 2
         } 
     }, 
     {
@@ -222,15 +222,15 @@ const houses = [
     }, 
     {
         id: 18,
-        houseLocation: "Ballintuim, UK",
-        imageURL: "https://a0.muscache.com/im/pictures/7907b90c-7c9b-4ffe-bc84-5e2fb2b11eea.jpg?im_w=720",
-        rentTime: "Sep. 10 — 15",
-        rating: 4.91, 
-        cost: 318,
+        houseLocation: "New Port, US",
+        imageURL: "https://a0.muscache.com/im/pictures/miso/Hosting-51023151/original/aca27b32-f75c-4309-9925-f3834bee7706.jpeg?im_w=720",
+        rentTime: "Sep. 4 — 9",
+        rating: 4.97, 
+        cost: 234,
         description: {
-            baths: 2,
+            baths: 1,
             bedrooms: 2, 
-            guests: 4
+            guests: 6
         } 
     }
 ]

@@ -11,6 +11,15 @@
     height: 345px;
     width: 365px;
     overflow: hidden;
+    z-index: 1; 
+}
+
+.heartIcon{
+    position: relative; 
+    top: 40px;
+    left: 325px;
+    z-index: 999;
+    fill-opacity: 80%;
 }
 
 .col1-wrapper{
@@ -118,3 +127,7 @@
     gap: 25px;
     margin-bottom: 20px;
 }
+
+
+/* HEADER STYLES */
+

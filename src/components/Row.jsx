@@ -10,7 +10,7 @@ function createBox(house){
             imageURL = {house.imageURL}
             rating = {house.rating}
             time = {house.rentTime}
-            bath = {house.description.bath}
+            bath = {house.description.baths}
             bedrooms = {house.description.bedrooms}
             guests = {house.description.guests}
             cost = {house.cost}
@@ -23,7 +23,13 @@ function Row(){
         <div>
             <div class="box-wrapper">
                 {houses.slice(0,6).map(createBox)}
-            </div>           
+            </div>
+            <div class="box-wrapper">
+                {houses.slice(6,12).map(createBox)}
+            </div>                
+            <div class="box-wrapper">
+                {houses.slice(12,18).map(createBox)}
+            </div>    
         </div>
     )
 }
