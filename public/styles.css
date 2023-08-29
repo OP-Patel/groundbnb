@@ -20,7 +20,31 @@
     left: 325px;
     z-index: 999;
     fill-opacity: 80%;
+    transition: transform 350ms ease; 
 }
+
+.heartIcon:hover{
+    fill: #F11A7B;
+    transform: scale(1.4);
+}
+
+.heartIcon:hover::before{
+    fill: black;
+}
+
+.heartIcon:hover::after{
+    fill: black;
+}
+
+.heartIcon:active{
+    animation: click 0.2s;
+    animation-iteration-count: 1;
+}
+
+@keyframes click {
+    0% { transform:  scale(1.4); }
+    100% { transform: scale(1.0); }
+  }
 
 .col1-wrapper{
     display: inline-block;
@@ -48,7 +72,6 @@
     gap: 15px;
     padding-left: 2px;
 }
-
 
 .description{
     padding: 0;
